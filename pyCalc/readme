@@ -1,0 +1,4 @@
+# 初始化环境，安装python依赖库
+pip install neo4j -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install pykafka -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install redis -i https://pypi.tuna.tsinghua.edu.cn/simple
